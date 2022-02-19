@@ -5,11 +5,11 @@
 #include <ArduinoOTA.h>
 
 #ifndef STASSID
-#define STASSID "SSID"
-#define STAPSK  "PASSWD"
+#define STASSID "SSID"    // Make changes at this place
+#define STAPSK  "PASSWD"  // Make Changes at this place
 #endif
 
-char auth[] = "ADD CODE SENT BY BLYNK";
+char auth[] = "ADD CODE SENT BY BLYNK"; //Make change at this place
 
 const char* ssid = STASSID;
 const char* password = STAPSK;
