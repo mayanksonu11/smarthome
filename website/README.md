@@ -12,7 +12,7 @@ Let's dig into it.
 2. JSON for message formatting
 3. HTML, CSS, php and JavaScript for developing user-interface
 
-####One should have a basic understanding to understand what's going on in the code
+#### One should have a basic understanding to understand what's going on in the code
 
 ### Future Scope specific to current work:
 1. Add digital fan speed controller
